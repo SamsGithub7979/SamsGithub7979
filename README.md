@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sameerk98571767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameerk98571767" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameer-khan-8b8aab219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-khan-8b8aab219" height="30" width="40" /></a>
 <a href="https://fb.com/sameer nazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer nazir" height="30" width="40" /></a>
-<a href="https://instagram.com/officalsameer_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialsameer_khan_" height="30" width="40" /></a>
+<a href="https://instagram.com/officialsameer_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialsameer_khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
